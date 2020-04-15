@@ -1,6 +1,6 @@
 #README voor Challenge 3 - Javascript op Aarde.
 
-Onderstaand staat het plan dat ik eigenlijk voor ogen had. Ik vond het om eerlijk te zijn moeilijk en niks wilde meewerken, dus ik heb het idee niet kunnen uitvoeren.
+Onderstaand staat het plan dat ik eigenlijk voor ogen had. Aangezien ik de opdracht lastig vond en tijdgebrek had om er echt voldoende tijd aan te besteden (andere deadlines), heb het idee niet kunnen uitvoeren. 
 
 --
 Ik heb voor Challenge 3 de Mapbox gecombineerd met de open weather API. Het idee achter deze combinatie is dat astronauten de weersomstandigheden kunnen zijn bij het landen, omdat dit belangrijk is om rekening mee te houden.
